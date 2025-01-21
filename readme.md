@@ -244,8 +244,8 @@ El diseño es adaptable a diferentes tamaños de pantalla mediante `media querie
 
 -Inicio: 
 Nos permite registrarnos y seleccionar nuestros intereses.
-![Foto de formulario de inicio](\src\ImgFormulario/formInicio "Vista del formulario Inicio")
+![Foto de formulario de inicio](\src\ImgFormulario/formInicio.png "Vista del formulario Inicio")
 
 -Contacto:
 Nos permite contactar con la empresa mediante un mensaje poniendo nuestro correo electrónico para recibir la respuesta
-![Foto de formulario de Contacto](\src\ImgFormulario/formContacto "Vista del formulario Contacto")
+![Foto de formulario de Contacto](\src\ImgFormulario/formContacto.png "Vista del formulario Contacto")
